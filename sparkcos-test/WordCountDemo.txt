@@ -1,0 +1,3 @@
+Apache Spark is a powerful distributed computing framework designed for big data processing
+It provides high level APIs in Java Scala Python and R 
+making large scale data analytics accessible to developers
